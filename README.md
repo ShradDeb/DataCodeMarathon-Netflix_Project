@@ -1,18 +1,18 @@
 # DataCodeMarathon
 I'm kicking off a coding marathon! Every week, I'll be working with a new dataset, from SQL to Python, and tackling a few key areas:
-* Defining the problem. *
-* Digging into Exploratory Data Analysis. *
-* Implementing ML solutions. *
-*  Considering the real-world impact.
+* Defining the problem. 
+* Digging into Exploratory Data Analysis. 
+* Implementing ML solutions. 
+* Considering the real-world impact.
 
 # Project Description
 Netflix is known for its work in data science, AI, and ML, particularly for building strong recommendation models and algorithms that understand customer behavior and patterns. Suppose you are working in a data-driven job role, and you have a dataset of more than 9,000 movies. You need to solve the following questions to help the company make informed business decisions accordingly.
 
-What is the most frequent genre of movies released on Netflix?
-Which has highest votes in vote avg column?
-What movie got the highest popularity? what's its genre?
-What movie got the lowest popularity? what's its genre?
-Which year has the most filmmed movies?
+* What is the most frequent genre of movies released on Netflix?
+* Which has highest votes in vote avg column?
+* What movie got the highest popularity? what's its genre?
+* What movie got the lowest popularity? what's its genre?
+* Which year has the most filmmed movies?
 
 # Project Findings and Summary:
 # Q1. What is the most frequent genre in the dataset?
